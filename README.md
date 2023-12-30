@@ -42,7 +42,7 @@ Objective: Build robust regression models to analyze and predict the relationshi
 Methods: Utilize generalized linear models (GLM), correlation matrices, and regression diagnostics to uncover key factors influencing wealth accumulation and distribution.
 
 8. Time Series Analysis for Wealth Forecasting
-9. 
+   
 Objective: Perform sophisticated time series analysis techniques to analyze temporal trends, forecast future wealth dynamics, and identify patterns.
 Methods: Apply Holt-Winters exponential smoothing, simple moving averages (SMA), ARIMA models, and residual analysis to gain insights into wealth trends and make informed predictions.
 10. Additional Statistical Techniques for Wealth Analysis
@@ -50,17 +50,17 @@ Objective: Evaluate and validate model performance, forecast errors, and residua
 Approaches: Examine forecast error distributions, conduct thorough residual analysis, and evaluate model performance to enhance the accuracy of wealth dynamics predictions.
 
 12. Correlation Analysis of Wealth Components
-13. 
+    
 Objective: Investigate the relationships between different wealth components and natural capital across various countries.
 Techniques: Conduct correlation analysis to quantify the strength and direction of relationships, visualize results using correlation matrices and plots.
 
 15. Regression Analysis for Developed and Developing Countries
-16. 
+    
 Objective: Explore wealth predictors and conduct regression analysis for developed and developing countries.
 Methods: Perform regression modeling to identify significant predictors of wealth and assess the impact of various factors in different economic contexts.
 
 18. Time Series Modeling and Forecasting
-19. 
+    
 Objective: Apply time series modeling techniques to analyze wealth and human capital datasets and forecast future trends.
 Methods: Utilize Holt-Winters exponential smoothing, moving averages, and ARIMA modeling to capture patterns, make predictions, and assess forecast accuracy.
 20. Focused Time Series Analysis for Nigeria
