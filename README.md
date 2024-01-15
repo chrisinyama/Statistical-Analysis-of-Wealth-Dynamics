@@ -1,30 +1,23 @@
 # Statistical-Analysis-of-Wealth-Dynamics
 # Table of Contents
-Projects Overview
+# [Projects Overview](#projects-overview)
 
-Data Exploration and Wealth Dynamics
+1. [Data Exploration and Wealth Dynamics](#data-exploration-and-wealth-dynamics)
+2. [Hypothesis Testing and Wealth Analysis](#hypothesis-testing-and-wealth-analysis)
+3. [Regression Analysis for Wealth Modeling](#regression-analysis-for-wealth-modeling)
+4. [Time Series Analysis for Wealth Forecasting](#time-series-analysis-for-wealth-forecasting)
+5. [Additional Statistical Techniques for Wealth Analysis](#additional-statistical-techniques-for-wealth-analysis)
+6. [Correlation Analysis of Wealth Components](#correlation-analysis-of-wealth-components)
+7. [Regression Analysis for Developed and Developing Countries](#regression-analysis-for-developed-and-developing-countries)
+8. [Time Series Modeling and Forecasting](#time-series-modeling-and-forecasting)
+9. [Focused Time Series Analysis for Nigeria](#focused-time-series-analysis-for-nigeria)
 
-Hypothesis Testing and Wealth Analysis
+## [Technologies Used](#technologies-used)
 
-Regression Analysis for Wealth Modeling
+## [How to Use](#how-to-use)
 
-Time Series Analysis for Wealth Forecasting
+## [License](#license)
 
-Additional Statistical Techniques for Wealth Analysis
-
-Correlation Analysis of Wealth Components
-
-Regression Analysis for Developed and Developing Countries
-
-Time Series Modeling and Forecasting
-
-Focused Time Series Analysis for Nigeria
-
-Technologies Used
-
-How to Use
-
-License
 
 **Projects Overview**
 
