@@ -1,22 +1,18 @@
 # Statistical-Analysis-of-Wealth-Dynamics
 # Table of Contents
-# [Projects Overview](#projects-overview)
-
-1. [Data Exploration and Wealth Dynamics](#data-exploration-and-wealth-dynamics)
-2. [Hypothesis Testing and Wealth Analysis](#hypothesis-testing-and-wealth-analysis)
-3. [Regression Analysis for Wealth Modeling](#regression-analysis-for-wealth-modeling)
-4. [Time Series Analysis for Wealth Forecasting](#time-series-analysis-for-wealth-forecasting)
-5. [Additional Statistical Techniques for Wealth Analysis](#additional-statistical-techniques-for-wealth-analysis)
-6. [Correlation Analysis of Wealth Components](#correlation-analysis-of-wealth-components)
-7. [Regression Analysis for Developed and Developing Countries](#regression-analysis-for-developed-and-developing-countries)
-8. [Time Series Modeling and Forecasting](#time-series-modeling-and-forecasting)
-9. [Focused Time Series Analysis for Nigeria](#focused-time-series-analysis-for-nigeria)
-
-## [Technologies Used](#technologies-used)
-
-## [How to Use](#how-to-use)
-
-## [License](#license)
+1. [Projects Overview](#projects-overview)
+2. [Data Exploration and Wealth Dynamics](#data-exploration-and-wealth-dynamics)
+3. [Hypothesis Testing and Wealth Analysis](#hypothesis-testing-and-wealth-analysis)
+4. [Regression Analysis for Wealth Modeling](#regression-analysis-for-wealth-modeling)
+5. [Time Series Analysis for Wealth Forecasting](#time-series-analysis-for-wealth-forecasting)
+6. [Additional Statistical Techniques for Wealth Analysis](#additional-statistical-techniques-for-wealth-analysis)
+7. [Correlation Analysis of Wealth Components](#correlation-analysis-of-wealth-components)
+8. [Regression Analysis for Developed and Developing Countries](#regression-analysis-for-developed-and-developing-countries)
+9. [Time Series Modeling and Forecasting](#time-series-modeling-and-forecasting)
+10. [Focused Time Series Analysis for Nigeria](#focused-time-series-analysis-for-nigeria)
+11. [Technologies Used](#technologies-used)
+12. [How to Use](#how-to-use)
+13. [License](#license)
 
 
 **Projects Overview**
